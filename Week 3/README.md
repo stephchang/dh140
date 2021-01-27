@@ -1,7 +1,7 @@
 # Rachel Levine Reflection
 
-It's amazing to see how open data can be used for humanitarian causes and how large scale it has become, at 114,122 total contributors. Levine mentioned that because they use open source platforms, the information doesn't just stay with them, so the information being able to be wide spread.
+It's amazing to see how open data can be used for humanitarian causes and how large scale it has become, at 114,122 total contributors. Levine mentioned that because they use open source platforms, the information doesn't just stay with them. I think this is an important point, as sometimes, data is only held by those who have more power. With the information being able to be wide spread, they can ensure that all communities will be able to see it. 
 
 Especially during the current pandemic, I think everyone can see how useful open data is when it comes to finding and stopping these outbreaks and being prepared for future ones. Without such open source datas, people would be unable to see how scary the current pandemic is and how it affects so many throughout the world. When I see the data on coronvirus cases and deaths, it really reminds me to be cautious. Additionally, with the help of these open source datas, contact tracing is possible for people to take more precaution and get tested earlier. 
 
-As someone who is interested in UIUX design and app development, I can see how open data can be implemented within certain ideas to solve solutions. 
+As someone who is interested in UIUX design and app development, I can see how open data can be implemented within certain ideas to solve solutions. Using Ethan and I's project topic of food insecurity for example, map showcasing and finding the nearest local food banks that are currently operating could be extremely helpful for those who are food insecure. Because not all food banks or pantries are open 24/7, that could help people have access to food whenever they want. 
