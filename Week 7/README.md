@@ -1,3 +1,3 @@
 # HyperCities: Thick Mapping in the Digital Humanities Reflection
 
-After reading the chapter on Mapping Events/Mapping Social Media, 
+After reading the chapter on Mapping Events/Mapping Social Media, I thought about how social media has changed the landscape. Because I'm someone who grew up with social media, I don't really think of the impact that it makes. Seeing how it can give voice to people who are silenced, reveal patterns in data, or see individual experiences, you can see how powerful it is. As I read about the protests in Egypt and how it gives a voice to the protestors, the idea of fake news on social media also came to my head. Thus, I was glad when the chapter addressed how social media could be used for authoritarian means and be manipulated to amplify misinformation on a global scale. It was also so interestign to read about HyperCities Now and how they curate data in different ways in order to expand the concept of the public sphere. 
